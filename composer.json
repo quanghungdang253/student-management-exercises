@@ -1,0 +1,15 @@
+{
+    "name": "hung/student-management",
+    "autoload": {
+        "psr-4": {
+            "Hung\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "QuangHung",
+            "email": "quanghungdang253@gmail.com"
+        }
+    ],
+    "require": {}
+}
