@@ -1,0 +1,61 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input {
+    padding: 10px;
+    border-radius: 1rem;
+}
+
+
+button {
+
+    background-color: red;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    cursor: pointer;
+
+}
+img {
+    max-width: 10rem;
+
+}
+
+.main-input {
+
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem 1rem 1rem 1rem;
+    border-radius: 1rem;
+    max-width: 428px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.list-students {
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-color: rgb(5, 252, 25);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 768px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    padding: 10px;
+
+}
+.list-students__content {
+    
+}
